@@ -1,7 +1,7 @@
 ## Hi 👋! My name is Hariom Phogat, from Charkhi Dadri, Haryana, India, and I'm a full-stack developer 👨‍💻 & fitness enthusiast 🏋 passionate about crafting elegant web solutions.
 ###
 
-<img align="right" height="185"  width="185" src="https://i.imgflip.com/8mqsgb.gif"  />
+<img align="right" height="185"  width="185" src="https://i.imgflip.com/8mr64o.gif"  />
 
 ###
 🔭 I’m currently working on CodeOverflow Web App<br>🌱 I’m currently learning Rust programming language<br>💬 Ask me about full stack development, fitness training, or optimizing code for performance<br>⚡ Fun fact: I once coded so intensely that my fitness tracker automatically awarded me a medal for "Extreme Debugging" while I was on a snack break!<br>📫 Reach Out to Me dev.hariomPhogat@gmail.com<br>
