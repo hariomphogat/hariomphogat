@@ -1,4 +1,4 @@
-## Hi 👋! My name is Hariom Phogat, from Charkhi Dadri, Haryana, India, and I'm a full-stack developer 👨‍💻 & fitness enthusiast 🏋 passionate about crafting elegant web solutions.
+## Hi <img height="35" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> ! My name is Hariom Phogat, from Charkhi Dadri, Haryana, India, and I'm a full-stack developer 👨‍💻 & fitness enthusiast 🏋 passionate about crafting elegant web solutions.
 ###
 
 <img align="right" height="185"  width="185" src="https://i.imgflip.com/8mr64o.gif"  />
