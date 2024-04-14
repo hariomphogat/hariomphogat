@@ -1,10 +1,12 @@
-## Hi <img height="35" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> ! My name is Hariom Phogat, from Charkhi Dadri, Haryana, India, and I'm a full-stack developer 👨‍💻 & fitness enthusiast 🏋 passionate about crafting elegant web solutions.
+# Hello folks! <img width="30px" height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> 
+Nice to meet you, I'm Hariom Phogat.
 ###
-
+## Who Am I? 🤠
 <img align="right" height="185"  width="185" src="https://i.imgflip.com/8mr64o.gif"  />
 
 ###
-🔭 I’m currently working on CodeOverflow Web App<br>🌱 I’m currently learning Rust programming language<br>💬 Ask me about full stack development, fitness training, or optimizing code for performance<br>⚡ Fun fact: I once coded so intensely that my fitness tracker automatically awarded me a medal for "Extreme Debugging" while I was on a snack break!<br>📫 Reach Out to Me dev.hariomPhogat@gmail.com<br>
+
+🤓 Self taught Developer<br>🔭 currently working on: CodeOverflow Web App<br>🌱 currently learning: Rust programming language<br>💬 Ask me about full stack development, fitness training, or optimizing code for performance<br>⚡ Fun Fact: In coding, thinking does all the heavy lifting. Typing? Just finger aerobics! 😂💭💪💻<br>📫 Reach Out to Me: [dev.hariomPhogat@gmail.com](mailto:dev.hariomPhogat@gmail.com)<br>
 
 
 ###
@@ -80,7 +82,14 @@
 ###
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hariomphogat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariomphogat&theme=react)](https://github.com/hariomphogat/github-readme-stats)
+
+## My Success Mantra 🌟
+The woods are lovely, dark and deep, 🌲🌌<br>
+But I have promises to keep, 🤝<br>
+And miles to go before I sleep, 🚶‍♂️💤<br>
+And miles to go before I sleep. 🚶‍♂️💤<br>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hariomphogat&icon=5&color=0)](https://visitcount.itsvg.in)
