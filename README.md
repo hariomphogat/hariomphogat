@@ -6,7 +6,7 @@ Nice to meet you, I'm Hariom Phogat.
 
 ###
 
-🤓 Self taught Developer<br>🔭 currently working on: CodeOverflow Web App<br>🌱 currently learning: Rust programming language<br>💬 Ask me about full stack development, fitness training, or optimizing code for performance<br>⚡ Fun Fact: In coding, thinking does all the heavy lifting. Typing? Just finger aerobics! 😂💭💪💻<br>📫 Reach Out to Me: [dev.hariomPhogat@gmail.com](mailto:dev.hariomPhogat@gmail.com)<br>
+🤓 Self taught Developer<br>🔭 currently working on: CodeOverflow Web App<br>🌱 currently learning: Data Science & Machine Learning<br>💬 Ask me about full stack development, fitness training, or optimizing code for performance<br>⚡ Fun Fact: In coding, thinking does all the heavy lifting. Typing? Just finger aerobics! 😂💭💪💻<br>📫 Reach Out to Me: [dev.hariomPhogat@gmail.com](mailto:dev.hariomPhogat@gmail.com)<br>
 
 
 ###
